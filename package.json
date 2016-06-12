@@ -1,0 +1,11 @@
+{
+  "name": "metatag",
+  "version": "0.0.1",
+  "description": "A module to tag flac files with cover art",
+  "author": "Roy Henley <royhenley@hotmail.com>",
+  "dependencies": {
+    "node-dir": "0.1.11",
+    "pace": "0.0.4"
+  },
+  "main": "app"
+}
