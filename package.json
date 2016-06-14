@@ -5,7 +5,7 @@
   "author": "Roy Henley <royhenley@hotmail.com>",
   "dependencies": {
     "node-dir": "0.1.11",
-    "pace": "0.0.4"
+    "bluebird": "~3.4.0"
   },
   "main": "app"
 }

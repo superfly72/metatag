@@ -5,4 +5,4 @@ var fileiterator = require('lib/fileiterator')
 console.log('Calling fileiterator...');
 var all_files = fileiterator.get_files(config.directory);
 
-
+//console.log('all_files' + all_files.result);
